@@ -15,3 +15,7 @@ Window switcher for X Window Managers utilizing ```wmctrl```.
 ### quit.sh
 
 poweroff, reboot, suspend by menu utilizing ```systemctl```.
+
+### ssh.sh
+
+Selection for hosts defined in ssh config file (```~/.ssh/config```). Spawns a new terminal with a ssh session to the selected host. Variable ```TERM``` needs to be adjusted to the used terminal emulator (in this case konsole).
