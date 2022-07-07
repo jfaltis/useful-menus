@@ -8,6 +8,12 @@ To select which menu to use (un)comment the corresponding lines in the shellscri
 
 Selection for the default audio sink used by PulseAudio by utilizing ```pactl```.
 
+### rofi_firefox_bookmarks.sh
+
+A rofi menu to open your Firefox bookmarks. 
+
+https://github.com/milosz/rofi-firefox-bookmarks
+
 ### window-switcher.sh
 
 Window switcher for X Window Managers utilizing ```wmctrl```.
