@@ -8,6 +8,10 @@ To select which menu to use (un)comment the corresponding lines in the shellscri
 
 Selection for the default audio sink used by PulseAudio by utilizing ```pactl```.
 
+### downloads.sh
+
+Selection for opening a file in your downloads directory specified by `XDG_DOWNLOAD_DIR`. Uses `xdg-open` to open the selected file.
+
 ### rofi_firefox_bookmarks.sh
 
 A rofi menu to open your Firefox bookmarks. 
