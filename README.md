@@ -6,7 +6,7 @@ To select which menu to use (un)comment the corresponding lines in the shellscri
 ## Menu scripts
 ### android-emulators.sh
 
-A launcher for android-emulators configured in `ANDROID_HOME`.
+A launcher for Android emulators configured in `ANDROID_HOME`.
 
 ### audio-devices.sh
 
