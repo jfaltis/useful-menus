@@ -3,6 +3,14 @@ A collection of useful menu scripts for Rofi and dmenu.
 
 To select which menu to use (un)comment the corresponding lines in the shellscripts. The default is Rofi.
 
+- [android-emulators.sh](#android-emulatorssh)
+- [audio-devices.sh](#audio-devicessh)
+- [downloads.sh](#downloadssh)
+- [rofi-firefox-bookmarks.sh](#rofi-firefox-bookmarkssh)
+- [window-switcher.sh](#window-switchersh)
+- [quit.sh](#quitsh)
+- [ssh.sh](#sshsh)
+
 ## Menu scripts
 ### android-emulators.sh
 
@@ -16,7 +24,7 @@ Selection for the default audio sink used by PulseAudio by utilizing ```pactl```
 
 Selection for opening a file in your downloads directory specified by `XDG_DOWNLOAD_DIR`. Uses `xdg-open` to open the selected file.
 
-### rofi_firefox_bookmarks.sh
+### rofi-firefox-bookmarks.sh
 
 A rofi menu to open your Firefox bookmarks. 
 
